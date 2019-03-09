@@ -3,6 +3,7 @@
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
+  font-family: 'Press Start 2P', cursive;
 }
 .Header {
   color: #443e3e;
