@@ -25,13 +25,13 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
-
+      React JS is a framework created by engineers at Facbook to make building out UI components easier.
 - [ ] What does it mean to _think_ in react?
-
+  To thin in React you would think to break down your site into components that can be re-used easily and think about how you can easily pass data around these components
 - [ ] Describe state.
-
+  State is a part of your components to hold data and to mutate the data inside of state but not actually mutate state it self.
 - [ ] Describe props.
-
+ Props are properties on your class that can be pass to the children  components to gather data from there.
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
